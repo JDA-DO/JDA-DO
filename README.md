@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="left">This profile is a comprehensive showcase of my projects and contributions. </h1>
+<div>
+ <p aling="justify">
+<p>
+I'm a Business Administrator with specialization in the application of process development, management and optimization tools. I have extensive experience in project management, simulation and process improvement, personnel management and design and implementation of standards and procedures.
+</p>
 
-<!--
-**JDA-DO/JDA-DO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+I have been constantly updated and I am currently deepening in Data Science and Machine Learning, with the objective of integrating advanced data analysis in strategic decision making and business process optimization.
+</p>
 
-Here are some ideas to get you started:
+</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
